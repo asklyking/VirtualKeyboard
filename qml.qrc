@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qwerty_layout.qml</file>
+        <file>components/BaseKey.qml</file>
+        <file>components/CharacterKey.qml</file>
+        <file>components/SpaceKey.qml</file>
+        <file>components/DoneKey.qml</file>
+        <file>components/BackspaceKey.qml</file>
+        <file>components/ShiftKey.qml</file>
+        <file>components/EmptyKey.qml</file>
+        <file>symbol_page1_layout.qml</file>
+        <file>symbol_page2_layout.qml</file>
+        <file>components/ModeKey.qml</file>
+        <file>components/PageKey.qml</file>
+    </qresource>
+</RCC>
